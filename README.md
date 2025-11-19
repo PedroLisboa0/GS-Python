@@ -1,5 +1,11 @@
 # GS Python - Sistema de Orientação de Carreiras
 
+## 👤 Integrantes
+
+- Roberto Marques  RM: 564935
+- Pedro Lisboa RM: 565722
+- Guilherme Ferraz RM: 564743
+
 ## 📌 Sobre o projeto
 
 Este sistema simula uma ferramenta inteligente de orientação profissional capaz de analisar competências técnicas e comportamentais de um usuário.
@@ -34,8 +40,19 @@ O usuário pode:
 O motor de recomendação avalia as competências e retorna sugestões de carreiras compatíveis.
 Todo o sistema está modularizado em classes para facilitar manutenção e expansão.
 
-## 👤 Integrantes
+## ▶️ Como Executar
+1. Certifique-se de ter Python 3 instalado.
 
-Roberto Marques  RM: 564935
-Pedro Lisboa RM: 565722
-Guilherme Ferraz RM: 564743
+2. No terminal, navegue até a pasta do projeto.
+
+3. Execute o comando:
+
+   ` python main.py `
+
+## 🔮 Demo
+
+1. ![Menu Interativo](https://github.com/PedroLisboa0/GS-Python/blob/main/Demo%20Imagens/Menu.jpg)
+
+2. ![Exibir Perfil](https://github.com/PedroLisboa0/GS-Python/blob/main/Demo%20Imagens/exibir.jpg)
+
+3. ![Resultado Análise](https://github.com/PedroLisboa0/GS-Python/blob/main/Demo%20Imagens/analise.jpg)
